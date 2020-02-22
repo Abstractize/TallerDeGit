@@ -1,4 +1,4 @@
-package Pokemon;
+package com.FatePapaya.Pokemon;
 
 public abstract class Pokemon {
     private String name;
