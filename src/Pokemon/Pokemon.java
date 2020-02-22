@@ -6,7 +6,7 @@ public abstract class Pokemon {
     private Type type;
 
     public void Attack(Pokemon pokemon){
-        
+        pokemon.Attacked(10);
     }
     public void Growl(){
         System.out.println(name);
