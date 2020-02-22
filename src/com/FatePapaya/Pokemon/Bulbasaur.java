@@ -1,4 +1,4 @@
-package Pokemon;
+package com.FatePapaya.Pokemon;
 
 public class Bulbasaur extends Pokemon {
     public Bulbasaur(){
