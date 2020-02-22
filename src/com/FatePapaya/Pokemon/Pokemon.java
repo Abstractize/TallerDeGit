@@ -15,7 +15,7 @@ public abstract class Pokemon {
         HP -= dmg;
     }
     //Getter and Setters
-    int getHp(){
+    public int getHp(){
       return HP;
     }
     public String getName(){
